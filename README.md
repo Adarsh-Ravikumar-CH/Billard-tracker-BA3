@@ -1,9 +1,9 @@
-# Projet-Prog-BA3
+# Billard-Tracker-BA3
 Billard game tracking using C, Matlab and Labview 
-# Billard Project
+# Projet-Prog-BA3
 
 ## Overview
-
+This project is realised during the BA3 course introduction à la programmation by Prof Salzmann
 This project implements a billiard analysis pipeline in three parts:
 
 1. **C program (`Pix2Pos`)**  
